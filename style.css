@@ -9,11 +9,13 @@
     display: flex;
     background-color: #1F2937;
     padding: 16px 200px;
+    gap: 8px;
 }
 
 .hero-content, .hero-image {
     flex: 1;
     margin: 100px 0;
+    min-width: 0;
 }
 
 h1 {
