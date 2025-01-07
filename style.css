@@ -49,6 +49,7 @@ li {
     flex-direction: column;
     text-align: center;
     align-items: center;
+    max-width: 140px;
 }
 
 a {
