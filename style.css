@@ -37,6 +37,13 @@ li {
     list-style: none;
 }
 
+.info-list {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    align-items: center;
+}
+
 a {
     text-decoration: none;
 }
