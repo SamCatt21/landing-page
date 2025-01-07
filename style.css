@@ -11,6 +11,10 @@
     padding: 16px 200px;
 }
 
+.hero-content, .hero-image {
+    flex: 1;
+}
+
 h1 {
     margin-right: auto;
     color: #F9FAF8;
