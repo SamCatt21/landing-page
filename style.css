@@ -13,6 +13,7 @@
 
 .hero-content, .hero-image {
     flex: 1;
+    margin: 100px 0;
 }
 
 h1 {
