@@ -5,11 +5,14 @@
     font-family: "Roboto", sans-serif;   
 }
 
-.header, .hero {
-    display: flex;
-    background-color: #1F2937;
+.section {
     padding: 16px 200px;
     gap: 8px;
+}
+
+.header, .hero {
+    background-color: #1F2937;
+    display: flex;
 }
 
 .hero-content, .hero-image {
