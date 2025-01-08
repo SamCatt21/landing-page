@@ -38,6 +38,7 @@
     padding-right: 0;
     background-color: #3882F6;
     border-radius: 8px;
+    color: #F9FAF8;
 }
 
 h1 {
@@ -103,6 +104,10 @@ h2 {
     font-size: 36px;
     color: #1F2937;
     font-weight: 900;
+}
+
+h2.cta-heading {
+   color: #F9FAF8;
 }
 
 .hero-heading {
