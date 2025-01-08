@@ -115,6 +115,7 @@ button {
     padding: 8px 32px;
     border-radius: 8px;
     border-style: none;
+    cursor: pointer;
 }
 
 .info-icon {
