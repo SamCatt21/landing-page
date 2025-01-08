@@ -32,6 +32,13 @@
     background-color: #E5E7EB;
 }
 
+.call-to-action{
+    margin: 100px 200px;
+    padding-left: 0;
+    padding-right: 0;
+    background-color: #3882F6;
+}
+
 h1 {
     margin-right: auto;
     color: #F9FAF8;
