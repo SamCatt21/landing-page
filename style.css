@@ -39,6 +39,7 @@
     background-color: #3882F6;
     border-radius: 8px;
     color: #F9FAF8;
+    display: flex;
 }
 
 h1 {
@@ -108,6 +109,11 @@ h2 {
 
 .call-to-action h2 {
    color: #F9FAF8;
+   font-size: 24px;
+}
+
+.call-to-action .secondary-text {
+    color: #F9FAF8;
 }
 
 .hero h2 {
