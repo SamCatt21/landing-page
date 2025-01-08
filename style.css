@@ -22,7 +22,7 @@
     margin-bottom: 100px;
 }
 
-.hero-content, .hero-image {
+.hero-content, .hero img {
     flex: 1;
     margin: 100px 0;
     min-width: 0;
@@ -52,7 +52,7 @@ ul {
     align-items: center;
 }
 
-.header-links {
+.header ul {
     gap: 24px;
 }
 
@@ -110,7 +110,7 @@ h2 {
    color: #F9FAF8;
 }
 
-.hero-heading {
+.hero h2 {
     font-size: 48px;
     color: #F9FAF8;
     font-weight: 900;
