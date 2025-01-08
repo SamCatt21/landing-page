@@ -28,6 +28,10 @@
     min-width: 0;
 }
 
+.quote {
+    background-color: #E5E7EB;
+}
+
 h1 {
     margin-right: auto;
     color: #F9FAF8;
