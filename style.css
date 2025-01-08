@@ -40,8 +40,15 @@ h1 {
 
 ul {
     display: flex;
-    gap: 24px;
     align-items: center;
+}
+
+.header-links {
+    gap: 24px;
+}
+
+.info-list-group {
+    gap: 40px;
 }
 
 li {
