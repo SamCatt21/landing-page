@@ -106,7 +106,7 @@ h2 {
     font-weight: 900;
 }
 
-h2.cta-heading {
+.call-to-action h2 {
    color: #F9FAF8;
 }
 
@@ -130,6 +130,8 @@ button {
     border-style: none;
     cursor: pointer;
 }
+
+
 
 .info-icon {
     height: 140px;
