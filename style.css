@@ -34,12 +34,14 @@
 
 .call-to-action {
     margin: 100px 200px;
-    padding-left: 0;
-    padding-right: 0;
+    padding-left: 24px;
+    padding-right: 24px;
     background-color: #3882F6;
     border-radius: 8px;
     color: #F9FAF8;
     display: flex;
+    justify-content: space-between;
+    align-items: center;
 }
 
 h1 {
